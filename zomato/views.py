@@ -11,7 +11,6 @@ chat_history=[]
 
 
 def my_view(request):
-    
     return HttpResponse("Hello!")
 
 def display_menu(request):
